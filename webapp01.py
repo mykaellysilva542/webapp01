@@ -5,7 +5,7 @@ from PIL import Image
 
 image01 = Image.open('desenvolvimento.jpg')
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
-st.title("Bem vindo, EMEF/EJA Edson Luis Lima Souto!")
+st.title("Bem vindo, ao como desenhar melhor 2.0!")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
 st.header("Cabeçalho")
@@ -14,9 +14,9 @@ st.header("Cabeçalho")
 st.subheader("Sub Cabeçalho")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.write("Como já deve ter percebido, o método como desenhar melhor 2.0 e o mais novo lançamento que vai te ensinar do zero ao avançado !")
 
-st.subheader("------ **Desenvolvido por: Massaki de O. Igarashi** -----")
+st.subheader("------ **Desenvolvido por: Mykaelly da S. Santos** -----")
 
 menu = ["Texto_Colunas",
         "Texto_Markdown",
